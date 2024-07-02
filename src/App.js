@@ -47,14 +47,14 @@ function App() {
           </Col>
         </Row>
 
-        <Row className="justify-content-center">
+        {/* <Row className="justify-content-center">
           <Col xs={12} md={6} lg={4} className="mb-3 text-center">
             <Button className="btn-outline-light btn-lg btn-block btn-social disabled" href="#">
               <h2 className="mb-0">Sito web</h2>
               <span className="small">(coming soon)</span>
             </Button>
           </Col>
-        </Row>
+        </Row> */}
       </Container>
     </div>
   );
